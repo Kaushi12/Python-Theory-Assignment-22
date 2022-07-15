@@ -1,0 +1,5 @@
+1) iNeuron because X is a global variable.
+2) iNeuron because we are printing X 
+3) NI! and iNeuron because inside function X is NI! and outside function it is iNeuron.
+4) NI! because we have defined X to global inside function.
+5) iNeuron
